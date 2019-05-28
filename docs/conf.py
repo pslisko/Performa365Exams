@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Performa 365'
+project = u'Performa 365 Exams'
 copyright = u'2017, Performa 365'
 
 # The version info for the project you're documenting, acts as replacement for
