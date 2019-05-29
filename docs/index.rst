@@ -17,9 +17,9 @@ uvod Boris
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: GET TO KNOW PERFORMA 365
+   :caption: NAVIGACIJA
 
-   gettoknow/roles/index
+   opcenito/navigacija
    
    
    
