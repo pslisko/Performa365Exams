@@ -63,5 +63,17 @@ uvod Boris
    novi_ispit/pitanja_u_grupi
    novi_ispit/uredjivanje_aktivacija_deaktivacija_brisanje_ispita
    
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: ADMINISTRACIJA ROKOVA
+
+   administracija_rokova/prikaz_postojecih_rokova
+   administracija_rokova/upis_novog_roka
+   administracija_rokova/uredjivanje_aktivacija_deaktivacija_brisanje_roka
+   administracija_rokova/ispis_liste_za_rok
+   
+   
   
    
