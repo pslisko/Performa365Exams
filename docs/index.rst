@@ -1,7 +1,7 @@
 Dobro došli na Performa 365 Exams
 ==================================
 
-uvod Boris
+eIspitni Sustav je platforma za polaganje pomorskih ispita.
 
 
 .. toctree::
