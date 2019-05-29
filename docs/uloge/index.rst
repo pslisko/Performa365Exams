@@ -9,6 +9,6 @@ Uloge u sustavu
   
   administrator_sustava
   administrator_pitanja
-  administrtor_ispita
+  administrator_ispita
   administrator_rokova
   ispitanik
