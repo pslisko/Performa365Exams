@@ -14,14 +14,22 @@ uvod Boris
    prijava_u_sustav/prijava
    prijava_u_sustav/zaboravljena_lozinka
 
+
+   
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: NAVIGACIJA
+   :caption: ULOGE U SUSTAVU
 
-   opcenito/navigacija
+   uloge/index
    
    
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+      :caption: OSNOVNI IZBORNIK
+
+   opcenito/osnovni_izbornik
    
 .. toctree::
    :maxdepth: 3
