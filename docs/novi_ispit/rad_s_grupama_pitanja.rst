@@ -1,22 +1,15 @@
-Grupe pitanja
-=================
-
-Naziv grupe
-^^^^^^^^^^^^^^^^
+Rad s grupama pitanja
+=====================
 
 
-Kategorije
-^^^^^^^^^^^^^^^^
-
-Vrijeme za rješavanje
-^^^^^^^^^^^^^^^^
-
-Obavezni broj pitanja
+Promjena redoslijeda grupa
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Indikator za nasumični raspored
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Status grupe
+Brisanje grupe
 ^^^^^^^^^^^^^^^^
+
+
+Brisanje svih grupa u ispitu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
