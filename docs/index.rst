@@ -12,7 +12,7 @@ uvod Boris
 
    prijava_u_sustav/registracija
    prijava_u_sustav/prijava
-   prijava_u_sustav/zaboravljena lozinka
+   prijava_u_sustav/zaboravljena_lozinka
 
 .. toctree::
    :maxdepth: 2
