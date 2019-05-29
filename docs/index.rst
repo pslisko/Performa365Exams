@@ -59,6 +59,7 @@ uvod Boris
    novi_ispit/osnovni_podaci_ispita
    novi_ispit/kategorije_ispita
    novi_ispit/rad_s_grupama_pitanja
+   novi_ispit/grupe_pitanja
    novi_ispit/pitanja_u_grupi
    novi_ispit/uredjivanje_aktivacija_deaktivacija_brisanje_ispita
    
